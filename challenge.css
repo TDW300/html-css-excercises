@@ -1,0 +1,56 @@
+
+.back:hover {
+  color: orangered;
+}
+
+.amazon {
+transition: 0.15s;
+}
+.amazon:hover {
+color: orangered;
+}
+
+.nike {
+font-size: 21px;
+font-weight: bold;
+}
+
+.instock {
+color: green;
+font-weight: bold;
+}
+
+.free {
+font-weight: bold;
+}
+
+.cart-button {
+  background-color: rgb(255, 213, 0);
+  color: black;
+  border: none;
+  height: 36px;
+  width: 115px;
+  border-radius: 50px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.cart-button:hover {
+  background-color: rgb(214, 178, 0)
+}
+
+.buy-button {
+  background-color: rgb(255, 165, 0);
+  color: black;
+  border: none;
+  height: 36px;
+  width: 115px;
+  border-radius: 50px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-left: 8px;
+}
+
+.buy-button:hover {
+  background-color:rgb(226, 148, 3);
+}

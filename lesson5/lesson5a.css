@@ -1,0 +1,20 @@
+.back {
+  margin-bottom:10px;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Tahoma;
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+}
+
+.tahoma {
+margin-top: 20px;
+}
+.container {
+  text-align: center;
+  margin-top: 650px;
+}

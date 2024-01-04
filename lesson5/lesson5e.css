@@ -1,0 +1,59 @@
+.back {
+  margin-bottom:10px;
+}
+
+p {
+margin-top:0px;
+margin-bottom:0px;
+Font-family:Arial;
+}
+
+.secondcontainer {
+text-align: center;
+}
+
+.new {
+  color:rgb(212, 108, 28);
+  font-size: 12px;
+  font-weight: bold;
+  margin-bottom:5px;
+}
+
+.mac {
+  font-weight: bold;
+  font-size:19px;
+}
+
+.slogan {
+  font-weight: bold;
+  font-size: 35px;
+}
+
+.price {
+  margin-top:9px;
+  margin-bottom:10px;
+  font-size: 14px;
+}
+
+.btn {
+  background-color:rgb(0, 123, 255);
+  color:white;
+  padding-left:10px;
+  padding-right:10px;
+  padding-top:5px;
+  padding-bottom:5px;
+  border-radius: 15px;
+  border:none;
+  font-weight: bold;
+  transition: opacity 0.15s;
+  cursor:pointer;
+}
+
+.btn:hover {
+  opacity: 0.8;
+}
+
+.container {
+  text-align: center;
+  margin-top: 650px;
+}
